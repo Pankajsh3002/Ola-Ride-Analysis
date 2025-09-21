@@ -24,12 +24,12 @@ This project analyzes a dataset of over 50,000 Ola ride-hailing records to ident
 ### 1. High Rate of Driver-Initiated Cancellations
 A significant portion of rides fail to complete, with driver cancellations being the primary cause.
 
-![Driver vs. Customer Cancellations](images/cancellations_donut_chart.png)
+![Driver vs. Customer Cancellations](images/share_of_cancellations.png)
 
 ### 2. "Driver Asked to Cancel" is a Major Issue
 Analysis of cancellation reasons shows that a key pain point is drivers instructing customers to cancel, suggesting issues with driver incentives or ride assignments.
 
-![Top Cancellation Reasons](images/cancellation_reasons_chart.png)
+![Top Cancellation Reasons](images/top_driver_cancellation_reasons.png)
 
 ## Actionable Recommendations
 
