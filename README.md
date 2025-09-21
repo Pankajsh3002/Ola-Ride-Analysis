@@ -29,7 +29,7 @@ A significant portion of rides fail to complete, with driver cancellations being
 ### 2. "Driver Asked to Cancel" is a Major Issue
 Analysis of cancellation reasons shows that a key pain point is drivers instructing customers to cancel, suggesting issues with driver incentives or ride assignments.
 
-![Top Cancellation Reasons](images/top_driver_cancellation_reasons.png)
+![Top Cancellation Reasons](images/top_reasons_for_ride_cancellation_by_drivers.png)
 
 ## Actionable Recommendations
 
